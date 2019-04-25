@@ -1,0 +1,92 @@
+
+body{
+	background: #a9a9a9;  
+}
+
+.part1{
+	background: #fff;
+	border: 1px solid #bbb;
+	position: relative;
+	top: 220px;
+	height: 900px;
+	border-radius: 5px;
+}
+
+.part2{
+	margin: 220px auto;
+	background: #fff;
+	border: 1px solid #bbb;
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+
+.avatar img{
+
+	text-align: center;
+}
+
+table{
+	width: 50%;
+	margin: 250px auto;
+	border-collapse: collapse;
+	text-align: left;
+	font-size: 16px
+}
+
+tr{
+	border-bottom: 1px solid #cbcbcbcb;
+}
+
+th, td{
+	border : none;
+	height: 60px;
+}
+
+tr:hover{
+	background: #f5f5f5f5;
+}
+
+td .infoUser{
+	color: black;
+	font-weight: bold;
+}
+.part1 .btn a{
+	position: relative;
+	top: 200px;
+}
+
+form{
+	margin: 120px auto;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+
+.part2 #realisations .heading h2{	
+	font-weight: 400;
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+}
+
+.part2 #realisations .heading a	{
+	
+}
+
+.part2 #realisations .photo .description h5{
+	text-align: center;
+}
+
+.part2 #realisations .photo .projet img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.devider{
+	position: relative;
+	bottom: 80px;
+	width: 150px;
+	height : 5px;
+	background: #ff7a00;
+	margin: 0 auto;
+}

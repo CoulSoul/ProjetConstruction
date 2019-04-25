@@ -1,0 +1,16 @@
+
+.heading h2{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 35px;
+}
+.msg{
+	text-align: center;
+	border: none;
+	border-radius: 3px;
+	padding: 10px;
+	background: #ff7a00;
+	width: 500px;
+	margin: 30px auto;
+}

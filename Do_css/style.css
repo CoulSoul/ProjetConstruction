@@ -1,0 +1,172 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#main{
+	background:  url('../images/1.jpg') no-repeat center;
+	background-size: cover;
+	height: 700px;
+
+}
+
+
+
+.navbar {
+	background: rgba(0, 0, 0, 0.8) !important;	
+	border: none !important;
+	margin : 60px auto !important;
+}
+#main .navbar .navbar-header a{
+	color: #fff;
+	font-size: 30px;
+}
+
+.navbar ul li{
+	margin-right: 50px;
+}
+
+.navbar ul li a{
+	color: #fff !important;
+}
+
+
+
+#main .heading{
+	margin-top: 60px;
+	text-align: center;
+	padding: 80px;
+	text-transform: uppercase;
+}
+
+#main .heading h2{
+	font-weight: bold;
+	font-family: ;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+#main .heading h5{
+	margin-top: 40px;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.overlay{
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 5px;
+	margin: 100px auto;	
+	text-align: center;
+}
+
+#main .boutton{
+	border: none;
+	font-size: 18px;
+	padding: 20px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	background: #ff7a00; 	
+	transition: 0.5s;
+	position: relative;
+	bottom: 40px;
+}
+
+#main .boutton:hover{
+	background: orange;
+	border: 1px solid orange;
+}
+
+/*Section 2*/
+#A_Propos{
+
+}
+
+.heading h2{
+	margin-top: 20px;
+	font-size: 60px;
+	text-align: center;
+	color: gray;
+	margin-bottom: 30px;
+}
+
+.devider{
+	border-radius: 3px;
+	width: 200px;
+	height: 10px;
+	background: #ff7a00;
+	margin : 0 auto;
+	margin-bottom: 60px;
+}
+
+
+
+/*#A_Propos img{
+	margin: 50px auto;
+	position: relative;
+	top: 400px;
+	left: 400px;
+}*/
+
+/*#A_Propos ul li{
+	width: 300px;
+	float: left;
+}
+
+#info1{
+	position: relative;
+	top: 150px;
+
+}
+
+#info2{
+	position: relative;
+	bottom: 120px;
+	left: 50px;
+}
+
+#info3{
+	position: relative;
+	top: 400px;
+	right: 190px;
+}
+
+#info4{
+	position: relative;
+	left: 900px;
+	bottom: 90px;
+}*/
+
+
+footer{
+	margin-top: 60px;
+	height: 100%;
+	background: black;
+}
+
+
+footer h1{
+	margin-top: 32px;
+	color: #fff;
+}
+
+footer .header-right{
+	float: right;
+	position: relative;
+	bottom: 30px;
+}
+
+footer .header-right ul li{
+	display: inline-block;
+	color: #fff;
+	margin-right: 20px;
+}
+
+ul{
+	list-style: none;
+}
+	
